@@ -1,0 +1,16 @@
+relationship AutoDetected_df329c43-244e-4372-b9e4-1b0a3399511e
+	fromColumn: transacoes.Moeda
+	toColumn: moedas.Moeda
+
+relationship AutoDetected_1d824bad-8ec0-468d-b919-5d0a5bc7d144
+	fromColumn: cotacoes.Moeda
+	toColumn: moedas.Moeda
+
+relationship bcfa9da5-28f5-0186-bf64-eaa6e87c85f4
+	fromColumn: transacoes.Data
+	toColumn: calendario.Data
+
+relationship 0335e42b-3e92-37b6-0021-289b86b021d1
+	fromColumn: cotacoes.Data
+	toColumn: calendario.Data
+
