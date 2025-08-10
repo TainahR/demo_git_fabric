@@ -1,3 +1,3 @@
 Demo integração git e Fabric
 
-Power BI Project 
+Power BI Project - Fabric + DEVOOPS
